@@ -15,6 +15,6 @@
 #!/bin/bash
 echo $(($(date +%Y) + 1))
 [N] overlord@lucky38 ~> whoami
-[Sunil Paul](https://codeberg.org/sunil_paul)
+Sunil Paul
 [I] overlord@lucky38 ~> 
 ```
