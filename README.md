@@ -10,7 +10,7 @@
      ●  ●  ●  ●  ●  ●  ●  ● 
      ●  ●  ●  ●  ●  ●  ●  ● 
 [I] overlord@lucky38 ~> year_of_the_linux_desktop 
-2026
+2027
 [I] overlord@lucky38 ~> cat ~/.local/bin/year_of_the_linux_desktop 
 #!/bin/bash
 echo $(($(date +%Y) + 1))
